@@ -1,4 +1,7 @@
 # Habit Tracker
+Video Demo:
+https://www.youtube.com/watch?v=qORYb2tSOzo
+(Please do check it out)
 
 ## Project Overview
 
