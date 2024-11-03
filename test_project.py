@@ -1,7 +1,7 @@
 import unittest
 from io import StringIO
 import sys
-from Harvard_Final_Project import add_habit, log_completion, display_statistics
+from project import add_habit, log_completion, display_statistics
 
 class HabitTrackerTests(unittest.TestCase):
     """Unit tests for the habit tracker functionality."""
