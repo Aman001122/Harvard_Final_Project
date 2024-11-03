@@ -16,7 +16,7 @@ To run the Habit Tracker, you need to have Python installed on your system. Foll
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Aman001122/habit-tracker.git
+   git clone https://github.com/Aman001122/Harvard_Final_Project.git
    cd habit-tracker
 
 Run the Application: Execute the main script:
